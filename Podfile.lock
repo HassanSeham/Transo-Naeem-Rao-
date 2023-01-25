@@ -1,0 +1,46 @@
+PODS:
+  - Alamofire (4.9.1)
+  - CLabsImageSlider (0.1.2)
+  - iOSDropDown (0.3.4)
+  - IQKeyboardManager (6.5.6)
+  - IQKeyboardManagerSwift (6.5.6)
+  - KRActivityIndicatorView (3.0.7)
+  - KRProgressHUD (3.4.7):
+    - KRActivityIndicatorView (= 3.0.7)
+  - SDWebImage (5.12.0):
+    - SDWebImage/Core (= 5.12.0)
+  - SDWebImage/Core (5.12.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - CLabsImageSlider
+  - iOSDropDown
+  - IQKeyboardManager
+  - IQKeyboardManagerSwift
+  - KRProgressHUD
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CLabsImageSlider
+    - iOSDropDown
+    - IQKeyboardManager
+    - IQKeyboardManagerSwift
+    - KRActivityIndicatorView
+    - KRProgressHUD
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  CLabsImageSlider: 49c296c17e2fb15f1abe8b5dd6157927912abb7c
+  iOSDropDown: c10a761f9a00c3f1cc9d3bce43ae504628e2f692
+  IQKeyboardManager: 2a6e97afdafc7becf0cb17a9a8d795e3a980717f
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  KRActivityIndicatorView: ad69e89c4ce40c986cf580595be4829dcad0e35a
+  KRProgressHUD: a248f0bc6c9c2aed40a37b76e03ffecc7f85c887
+  SDWebImage: 4ea20cca2986adc5aacde07aa686742fd4c67a37
+
+PODFILE CHECKSUM: ca6191d70d5eb0af992be67b56d6acd937c47a1d
+
+COCOAPODS: 1.11.2
